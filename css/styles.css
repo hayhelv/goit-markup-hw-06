@@ -439,12 +439,13 @@ img {
  }
 .advant {
     display: flex;
+    justify-content: center;
+    align-items: center;
     background: var(--secondary-color-bg);
     width: 270px;
     height: 120px;
     margin-bottom: 30px;
-    justify-content: center;
-    align-items: center;
+    
 }
 
  
